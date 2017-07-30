@@ -4,5 +4,5 @@ Aber nichts kann etwass entgeben...
 Dieser Text is bei mir gechreiben.
         -- Jemand
 
-And this line was added in master branch.
-Changed url to ssh one.
+This line was added in master branch.
+This is line from another branch: Changed url to ssh one.
